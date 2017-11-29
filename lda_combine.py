@@ -3,12 +3,9 @@
 Updated on 11 Jan,2016
 Run with Hbase
 Created on 12 Aug, 2015 and 13 Aug, 2015
-@author: Ivy
-为LDA准备reuters.tokens、tokens.txt、list_of_lists.txt、reuters.titles
-3月26日补充
-tokens文档在root_directory_lda目录下
-reuters.titles在root_directory_lda目录下
-list_of_lists在/usr/jincan目录下
+@author:
+
+
 '''
 import os
 import os.path
